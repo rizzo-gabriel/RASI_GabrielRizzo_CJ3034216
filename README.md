@@ -1,9 +1,7 @@
 # RASI_GabrielRizzo_CJ3034216
 Trabalho de Redes e Administração de Sistemas (RASI) - Docker e Docker Compose. Aluno: Gabriel Rizzo dos Santos. Turma: 2º Informática. Nota: 10. 
 -
--
-===========================================================================================================================
--
+
 -
 A partir de agora, começa o tutorial para realizar todos os passos do trabalho, fiz um bem explicativo para que todos (ou nem todos) pudessem entender.
 
